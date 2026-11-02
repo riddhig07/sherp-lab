@@ -53,7 +53,7 @@ See `MEETING_HUB.md` for Drive, OpenAI, and Meeting Hub env vars.
 
 This repo is the single source of truth for the lab site. **Every change should be committed and pushed to GitHub** so others can pull and Vercel can deploy from `main`.
 
-1. **Clone once:** `git clone https://github.com/riddhig07/sherp-lab.git` then `cd sherp-lab && npm install`
+1. **Clone once:** `git clone https://github.com/S-H-E-R-P-AI-Lab/website.git` then `cd website && npm install`
 2. **Before you start:** `git pull origin main`
 3. **After you edit:** `git add -A` → `git commit -m "Describe your change"` → `git push origin main`
 4. **Optional (recommended for bigger changes):** create a branch, push it, open a pull request on GitHub, merge to `main`.

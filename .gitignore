@@ -27,4 +27,5 @@ yarn-error.log*
 next-env.d.ts
 .vercel
 .tools/
+.gh-login-out.txt
 /data/
